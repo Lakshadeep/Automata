@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1374229970 source:c:\users\lakshadeep\desktop\automata_v1\main.cpp
+	<iostream>
+	"cv.h"
+	"highgui.h"
+	"math.h"
+
